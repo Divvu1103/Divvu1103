@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-two-lilac.vercel.app/](https://portfolio-website-two-lilac.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://divyansh-vaibhav.vercel.app/](https://divyansh-vaibhav.vercel.app/)
 
 - 💬 Ask me about **react and next**
 
